@@ -1,33 +1,34 @@
-# 👋 Hey, I'm Furkhan  
+# 👋 Hi, I'm Furkhan
 
-👋 I'm a **Data Science enthusiast** passionate about transforming data into meaningful insights.  
-🎓 **B.E. in Computer Science (Data Science)**  
-📍 Based in India  
-💡 Interested in **Data Analytics, Machine Learning, and Visualization**
+I'm a **Data Science enthusiast** passionate about transforming data into actionable insights.
+
+- 🎓 **B.E. in Computer Science (Data Science)**
+- 📍 Based in India
+- 💡 Interests: **Data Analytics, Machine Learning, Visualization**
 
 ---
 
 ## 🚀 Projects
 
 ### 🚂 Short-Term Train Delay Prediction (Major Project)
-- Developed as part of my final-year **B.E. Major Project**.  
-- Built a machine learning model to predict train arrival delays.  
-- Used **Random Forest**, **Gradient Boosting**, and **ANN** algorithms.  
-- Achieved an R² score of **0.82** for the best model.  
-- Tools: Python, Scikit-learn, Pandas, NumPy, Jupyter Notebook.  
-🔗 *(Project repo coming soon!)*  
+- Final-year **B.E. Major Project**.
+- Built a machine learning model to predict train arrival delays.
+- Explored **Random Forest**, **Gradient Boosting**, and **ANN** algorithms.
+- Achieved a best model R² score of **0.82**.
+- **Tech:** Python, Scikit-learn, Pandas, NumPy, Jupyter Notebook  
+  🔗 *(Project repo coming soon!)*
 
 ### 📊 Excel Sales Dashboard
-- Designed an interactive Excel dashboard for business insights.  
-- Included slicers, KPIs, and pivot-based visualizations for dynamic filtering.  
+- Designed an interactive Excel dashboard for business insights.
+- Integrated slicers, KPIs, and pivot-based visualizations for dynamic filtering.
 
-### 📈 Power BI Project
-- Built a Power BI dashboard analyzing **shipping and profitability performance**.  
-- Utilized **DAX measures**, charts, and filters for data-driven insights.  
+### 📈 Power BI Dashboard
+- Developed a Power BI dashboard to analyze **shipping and profitability performance**.
+- Utilized **DAX measures**, charts, and filters for deeper business insights.
 
 ### 🗄️ SQL Analysis Project *(in progress)*
-- Performing SQL-based data analysis on **sales and customer datasets**.  
-- Focus areas: Joins, Window functions, and performance optimization.  
+- Conducting SQL-based analysis on **sales and customer datasets**.
+- Focus: Joins, window functions, and query optimization.
 
 ---
 
@@ -35,13 +36,15 @@
 
 **Languages:** Python, SQL, DAX  
 **Libraries:** Pandas, Scikit-learn, Matplotlib  
-**Tools:** Power BI, Excel, Jupyter Notebook, GitHub  
+**Tools:** Power BI, Excel, Jupyter Notebook, GitHub
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+</p>
 
 ---
 
@@ -53,10 +56,11 @@
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdul-furkhan)  
-- ✉️ [Email Me](mailto:furkhan6786@gmail.com)
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdul-furkhan)
+- ✉️ [Email](mailto:furkhan6786@gmail.com)
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to check out my projects or collaborate.*  
-_“Always learning, always growing 🌱”_
+⭐ *Thanks for visiting! Feel free to check out my projects or reach out to collaborate.*  
+_“Always learning, always growing.”_ 🌱
