@@ -1,42 +1,49 @@
-# 👋 Hi, I'm Furkhan
+# 👋 Hi, I'm Abdul Furkhan  
 
-I'm a **Data Science enthusiast** passionate about transforming data into actionable insights.
+🎓 **B.E. in Computer Science (Data Science)**  
+📍 Based in India  
+💡 Passionate about **Data Analytics, Machine Learning, and Visualization**  
 
-- 🎓 **B.E. in Computer Science (Data Science)**
-- 📍 Based in India
-- 💡 Interests: **Data Analytics, Machine Learning, Visualization**
-
----
-
-## 🚀 Projects
-
-### 🚂 Short-Term Train Delay Prediction (Major Project)
-- Final-year **B.E. Major Project**.
-- Built a machine learning model to predict train arrival delays.
-- Explored **Random Forest**, **Gradient Boosting**, and **ANN** algorithms.
-- Achieved a best model R² score of **0.82**.
-- **Tech:** Python, Scikit-learn, Pandas, NumPy, Jupyter Notebook  
-  🔗 *(Project repo coming soon!)*
-
-### 📊 Excel Sales Dashboard
-- Designed an interactive Excel dashboard for business insights.
-- Integrated slicers, KPIs, and pivot-based visualizations for dynamic filtering.
-
-### 📈 Power BI Dashboard
-- Developed a Power BI dashboard to analyze **shipping and profitability performance**.
-- Utilized **DAX measures**, charts, and filters for deeper business insights.
-
-### 🗄️ SQL Analysis Project *(in progress)*
-- Conducting SQL-based analysis on **sales and customer datasets**.
-- Focus: Joins, window functions, and query optimization.
+I’m a **Data Science enthusiast** who loves turning raw data into meaningful insights through analytics, machine learning, and visual storytelling.
 
 ---
 
-## 🧰 Skills
+## 🚀 Featured Projects  
+
+### 🚂 Short-Term Train Delay Prediction *(Major Project)*  
+- Final-year **major project** predicting train arrival delays using machine learning.  
+- Explored **Random Forest**, **Gradient Boosting**, and **ANN** algorithms.  
+- Achieved a best model R² score of **0.82**.  
+- **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Jupyter Notebook  
+- 🔗 *[Project repository coming soon]*  
+
+---
+
+### 📊 Excel Sales Dashboard  
+- Designed an **interactive Excel dashboard** for business insights.  
+- Integrated **slicers, KPIs**, and **pivot-based visualizations** for dynamic analysis.  
+- Automated reports using **VBA macros**.  
+
+---
+
+### 📈 Power BI Sales Dashboard  
+- Developed a **Power BI dashboard** to analyze shipping and profitability performance.  
+- Utilized **DAX measures**, custom visuals, and filters for deep business insights.  
+- Enhanced storytelling through clean and interactive layouts.  
+
+---
+
+### 🗄️ SQL Analysis Project *(In Progress)*  
+- Conducting **SQL-based analysis** on sales and customer datasets.  
+- Focus areas: **Joins, window functions, subqueries, and performance optimization.**
+
+---
+
+## 🧰 Technical Skills  
 
 **Languages:** Python, SQL, DAX  
-**Libraries:** Pandas, Scikit-learn, Matplotlib  
-**Tools:** Power BI, Excel, Jupyter Notebook, GitHub
+**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib  
+**Tools:** Power BI, Excel, Jupyter Notebook, Git, GitHub  
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -48,19 +55,19 @@ I'm a **Data Science enthusiast** passionate about transforming data into action
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats  
 
 ![Furkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdul-furkhan&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-furkhan&layout=compact&theme=radical)
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdul-furkhan)
-- ✉️ [Email](mailto:furkhan6786@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdul-furkhan)  
+- ✉️ [Email](mailto:furkhan6786@gmail.com)  
 
 ---
 
 ⭐ *Thanks for visiting! Feel free to check out my projects or reach out to collaborate.*  
-_“Always learning, always growing.”_ 🌱
+> _“Always learning, always growing.”_ 🌱
